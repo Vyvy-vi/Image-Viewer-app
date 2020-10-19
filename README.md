@@ -8,7 +8,7 @@
 - tkinter
 - pillow
 
-###TODO:
+### #TODO:
 - [] Test on windows 
 - [x] Make Status Bar display image path when new file opened.
 - [] Fix selection choice options for dialog box 
